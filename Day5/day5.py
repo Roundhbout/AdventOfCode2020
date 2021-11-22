@@ -40,13 +40,12 @@ for seat in seats:
 
 print(f"HIGHEST ID: {max_id}")
 
-"""
 
-s = set()
-for seat in seat_ids:
-    if seat - 2 in s:
-        print(f"MY SEAT: {seat - 1}")
-    s.add(seat)
-"""
+sorted_seat_ids = sorted(seat_ids)
+for i in range(1, len(sorted_seat_ids)):
+    if sorted_seat_ids[i] - sorted_seat_ids[i - 1] == 2:
+        print(f"MY SEAT: {sorted_seat_ids[i] - 1}")
+        break
+    
     
     
