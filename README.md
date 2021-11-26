@@ -8,7 +8,7 @@ Practicing Advent of Code 2020 in advance of 2021. These challenges help me refr
 | 03    | **    |
 | 04    | **    |
 | 05    | **    |
-| 06    |       |
+| 06    | **    |
 | 07    |       |
 | 08    |       |
 | 09    |       |
