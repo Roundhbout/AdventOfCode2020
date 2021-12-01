@@ -1,5 +1,5 @@
 # AdventOfCode2020
-Practicing Advent of Code 2020 in advance of 2021. These challenges help me refresh on a phew things such as IDE usage and git (and I don't have to use hackerrank's god awful IDE).
+Practicing Advent of Code 2020 in advance of 2021. These challenges help me refresh on a few things such as IDE usage and git (and I don't have to use hackerrank's god awful IDE).
 
 | Day   | Stars |
 | :--:  | :--:  |
